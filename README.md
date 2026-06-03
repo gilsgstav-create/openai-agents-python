@@ -92,6 +92,7 @@ We'd like to acknowledge the excellent work of the open-source community, especi
 - [Requests](https://github.com/psf/requests)
 - [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk)
 - [Griffe](https://github.com/mkdocstrings/griffe)
+- gil
 
 This library has these optional dependencies:
 
